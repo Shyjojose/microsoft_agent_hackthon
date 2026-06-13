@@ -1,0 +1,24 @@
+# Web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Azure AI Foundry / OpenAI
+azure-ai-projects
+azure-identity
+openai
+
+# Data validation
+pydantic
+
+# Document parsing
+pymupdf
+python-docx
+
+# Environment variable loading
+python-dotenv
+
+# Testing (used at end)
+pytest
+pytest-asyncio
+httpx
